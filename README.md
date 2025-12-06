@@ -1,79 +1,122 @@
-# ITIL 4 Foundation Flashcards (PT-BR) 📚
+# 📚 ITIL 4 Foundation - Anki Flashcards
 
-Este repositório contém um deck de flashcards completo e auditado para a preparação da certificação **ITIL 4 Foundation**, totalmente em Português (PT-BR).
+![Status](https://img.shields.io/badge/Status-Validated%20v1.0-brightgreen)
+![Syllabus](https://img.shields.io/badge/Syllabus-v4.2-blue)
+![Cards](https://img.shields.io/badge/Cards-180-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-O material foi formatado especificamente para importação no **Anki** (software de repetição espaçada).
-
-## 🎯 Objetivo
-Fornecer um material de estudo consolidado e de alta precisão, focado não apenas na memorização de definições, mas no entendimento das nuances exigidas pelos exames mais recentes.
-
-## 🛠️ Conteúdo e Cobertura
-O conteúdo foi desenvolvido com base em uma análise cruzada das seguintes fontes oficiais:
-* **ITIL Foundation: ITIL 4 Edition** (Livro Oficial)
-* **Syllabus v4.2** (Atualizações de 2024/2025)
-* **Official Sample Papers 1 & 2** (Perguntas e Justificativas)
-
-### Destaques do Material:
-* ✅ **100% de Cobertura do Syllabus:** Inclui todos os *Learning Outcomes* (LOs) exigidos.
-* 🧠 **Conceitos Chave:** Definições precisas de Serviço, Utilidade, Garantia, Valor Co-criado, etc.
-* 🔄 **Cadeia de Valor e SVS:** Mapeamento das atividades e componentes do Sistema de Valor de Serviço.
-* ⚙️ **Práticas de Gerenciamento:** Detalhamento das 7 práticas principais e visão geral das 15 práticas exigidas.
-* ⚠️ **Correção de "Gaps" e Pegadinhas:** Cartões específicos para diferenciar conceitos confusos (ex: *Implantação* vs. *Liberação*) e regras de *Autoridade de Mudança*.
-* 📝 **Terminologia Atualizada:** Notas sobre a evolução de termos como "Change Control" para "Change Enablement".
-
-## 🚀 Como Usar
-1.  Baixe o arquivo `.txt` disponível neste repositório.
-2.  Abra o **Anki** no seu computador.
-3.  Clique em **Arquivo** > **Importar...**
-4.  Selecione o arquivo baixado.
-5.  Certifique-se de que a opção "Permitir HTML nos campos" esteja marcada.
-6.  Comece a estudar!
-
-## 📂 Estrutura dos Dados
-O arquivo segue o padrão de importação do Anki:
-* **Separador:** Tabulação (Tab)
-* **Campos:** ID | GUID | Deck | Frente (Pergunta) | Verso (Resposta) | Tags
-
-## ⚖️ Disclaimer
-Este é um material de estudo pessoal ("Study Notes") criado para fins educacionais. Este repositório não é afiliado à PeopleCert ou AXELOS.
+**[🇧🇷 Português (PT-BR)](#-português-pt-br)** | **[🇺🇸 English (EN)](#-english-en)**
 
 ---
 
-# ITIL 4 Foundation Flashcards (PT-BR) 📚 [English Version]
+## 🇧🇷 Português (PT-BR)
 
-This repository contains a comprehensive and audited flashcard deck for **ITIL 4 Foundation** certification preparation, fully localized in Portuguese (PT-BR).
+Este repositório contém o **material definitivo** de flashcards para a preparação da certificação **ITIL 4 Foundation**.
 
-The material has been specifically formatted for import into **Anki** (spaced repetition software).
+O material foi auditado, validado e formatado especificamente para uso no **Anki** (software de repetição espaçada), cobrindo desde conceitos básicos até cenários situacionais complexos.
 
-## 🎯 Objective
-To provide a consolidated, high-precision study resource focused not only on memorizing definitions but also on understanding the specific nuances required by the most recent exams.
+### 📂 Acesso ao Arquivo
+O deck completo está localizado na pasta `pt-br`:
+👉 **[Baixar Arquivo .tsv (180 Questões)](./pt-br/itil4-foundation-complete-v1.tsv)**
 
-## 🛠️ Content & Coverage
-The content was developed based on a cross-referenced analysis of the following official sources:
-* **ITIL Foundation: ITIL 4 Edition** (Official Book)
-* **Syllabus v4.2** (2024/2025 Updates)
-* **Official Sample Papers 1 & 2** (Questions & Rationales)
+### 🎯 Diferenciais do Material
+Diferente de "dumps" comuns, este material foi estruturado pedagogicamente:
+* ✅ **100% Validado:** Cruzamento rigoroso com o *Livro Oficial ITIL 4* e *Syllabus v4.2*.
+* 🧠 **Cenários de Elite:** Inclui 20 questões situacionais ("O usuário ligou, qual prática atua?") exigidas nas provas modernas.
+* 🎨 **Leitura Dinâmica:** Uso de **negrito** nas palavras-chave das explicações para acelerar a revisão.
+* 🏷️ **Taxonomia Inteligente:** Uso de tags hierárquicas (`ITIL::01_Conceitos`) para permitir estudo focado por tópico.
+* 🇬🇧/🇧🇷 **Terminologia Híbrida:** Termos chave em PT/EN (ex: *Habilitação de Mudança / Change Enablement*) para evitar ambiguidades.
 
-### Key Highlights:
-* ✅ **100% Syllabus Coverage:** Covers all required *Learning Outcomes* (LOs).
-* 🧠 **Core Concepts:** Precise definitions of Service, Utility, Warranty, Co-created Value, etc.
-* 🔄 **SVS & Value Chain:** Mapping of Service Value System components and activities.
-* ⚙️ **Management Practices:** Detailed breakdown of the 7 main practices and an overview of the 15 required practices.
-* ⚠️ **Gap Analysis & Correction:** Specific cards to clarify confusing concepts (e.g., *Deployment* vs. *Release*) and *Change Authority* rules based on official sample paper rationales.
-* 📝 **Updated Terminology:** Includes notes on the evolution of terms such as "Change Control" vs. "Change Enablement".
+### 📊 Conteúdo do Deck
+| Tópico | Qtd. | Foco do Aprendizado |
+| :--- | :---: | :--- |
+| **Conceitos & 4 Dimensões** | 60 | Definições base, Valor, Custos, Riscos, PESTLE e SVS. |
+| **Práticas de Gerenciamento** | 60 | Detalhamento profundo das 7 práticas principais e visão das 15 gerais. |
+| **Cenários & Booster** | 60 | Questões situacionais, formatos "Missing Word" e "Lista". |
+| **TOTAL** | **180** | **Cobertura Completa** |
 
-## 🚀 How to Use
-1.  Download the `.txt` file available in this repository.
-2.  Open **Anki** on your computer.
-3.  Click on **File** > **Import...**
-4.  Select the downloaded file.
-5.  Ensure the option "Allow HTML in fields" is checked.
-6.  Start studying!
+### 🚀 Instalação (Passo a Passo)
 
-## 📂 Data Structure
-The file follows the standard Anki import format:
-* **Separator:** Tab
-* **Fields:** ID | GUID | Deck | Front (Question) | Back (Answer) | Tags
+Para que os cartões funcionem corretamente, siga a ordem abaixo:
 
-## ⚖️ Disclaimer
-This is a personal study notes project created for educational purposes. This repository is not affiliated with PeopleCert or AXELOS.
+#### 1️⃣ Pré-requisito (Obrigatório)
+Instale o Add-on **AllInOne** no seu Anki para habilitar os cartões de múltipla escolha.
+1.  No Anki, vá em **Ferramentas** > **Complementos** (Add-ons).
+2.  Clique em **Obter Complementos**.
+3.  Cole o código: `1566095810`
+4.  Clique em OK e **reinicie o Anki**.
+
+#### 2️⃣ Importação do Arquivo
+1.  Baixe o arquivo `.tsv` no link acima.
+2.  No Anki, clique em **Arquivo** > **Importar...**
+3.  Selecione o arquivo baixado.
+4.  **Configuração Crítica:**
+    * **Tipo de Nota:** O Anki deve selecionar automaticamente `AllInOne (kprim, mc, sc)+`.
+    * **Separador de Campos:** Certifique-se de que está selecionado **TAB** (Tabulação).
+    * **Permitir HTML:** ✅ Marque esta opção para ver a formatação correta.
+5.  Clique em Importar.
+
+### ⚖️ Isenção de Responsabilidade
+
+Este repositório é um projeto pessoal de estudo, fornecido **"no estado em que se encontra" (as-is)**.
+
+1.  **Não Oficial:** Este material não é afiliado, endossado ou conectado à AXELOS Limited ou PeopleCert.
+2.  **Sem Garantia:** O autor não garante a aprovação no exame. O uso deste material é de total responsabilidade do usuário.
+3.  **Fonte:** Recomenda-se sempre consultar a literatura oficial para fins de exame.
+
+---
+
+## 🇺🇸 English (EN)
+
+This repository hosts the **definitive flashcard resource** for **ITIL 4 Foundation** certification preparation.
+
+The material has been audited, validated, and formatted specifically for **Anki** (spaced repetition software), covering everything from basic concepts to complex situational scenarios.
+
+### 📂 File Access
+* **Status:** The English deck is currently under development.
+* **Folder:** [`en/`](./en/) (Coming soon).
+
+### 🎯 Key Differentiators
+Unlike common "exam dumps," this material is structured pedagogically:
+* ✅ **100% Validated:** Rigorous cross-referencing with the *Official ITIL 4 Book* and *Syllabus v4.2*.
+* 🧠 **Elite Scenarios:** Includes situational questions ("User reported X, which practice applies?") required in modern exams.
+* 🎨 **Enhanced Readability:** Uses **bold text** on keywords in explanations to speed up review.
+* 🏷️ **Smart Taxonomy:** Uses hierarchical tags (`ITIL::01_Concepts`) for focused topic study.
+
+### 📊 Deck Content
+| Topic | Qty. | Learning Focus |
+| :--- | :---: | :--- |
+| **Concepts & 4 Dimensions** | 60 | Core definitions, Value, Costs, Risks, PESTLE, and SVS. |
+| **Management Practices** | 60 | Deep dive into the 7 main practices and overview of the 15 general ones. |
+| **Scenarios & Booster** | 60 | Situational questions, "Missing Word" and "List" formats. |
+| **TOTAL** | **180** | **Full Coverage** |
+
+### 🚀 Installation (Step-by-Step)
+
+For the cards to function correctly, follow this order:
+
+#### 1️⃣ Prerequisite (Mandatory)
+Install the **AllInOne** Add-on in your Anki to enable multiple-choice cards.
+1.  In Anki, go to **Tools** > **Add-ons**.
+2.  Click **Get Add-ons**.
+3.  Paste the code: `1566095810`
+4.  Click OK and **restart Anki**.
+   * *Add-on Link: [Anki AllInOne (kprim, mc, sc)+](https://ankiweb.net/shared/info/1566095810)*
+
+#### 2️⃣ File Import
+1.  Download the `.tsv` file (when available).
+2.  In Anki, click **File** > **Import...**
+3.  Select the downloaded file.
+4.  **Critical Configuration:**
+    * **Note Type:** Anki should automatically select `AllInOne (kprim, mc, sc)+`.
+    * **Field Separator:** Ensure **TAB** is selected.
+    * **Allow HTML:** ✅ Check this option to render formatting correctly.
+5.  Click Import.
+
+### ⚖️ Legal Disclaimer
+
+This repository is a personal study project provided **"as-is"** without warranty of any kind.
+
+1.  **Unofficial:** This material is not affiliated with, endorsed by, or connected to AXELOS Limited, PeopleCert, or any ITIL® rights holders.
+2.  **No Guarantee:** The author accepts no liability for the outcome of any examinations. Using this material **does not guarantee exam success**.
+3.  **Responsibility:** The user assumes all risks associated with the use of this content. Always refer to official literature for exam preparation.
