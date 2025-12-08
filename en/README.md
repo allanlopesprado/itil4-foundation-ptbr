@@ -28,7 +28,7 @@ Unlike common "exam dumps," this material is structured pedagogically:
 ## 🚀 Installation (Step-by-Step)
 
 ### 1️⃣ Prerequisite (Mandatory)
-Install the **AllInOne** Add-on in your Anki to enable multiple-choice cards.
+Install the **Multiple Choice** Add-on in your Anki to enable multiple-choice cards.
 1.  In Anki, go to **Tools** > **Add-ons**.
 2.  Click **Get Add-ons**.
 3.  Paste the code: `1566095810` and restart Anki.
