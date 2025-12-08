@@ -29,14 +29,14 @@ Unlike common "exam dumps," this material is structured pedagogically:
 
 As the file is now a complete package (`.apkg`), installation is automatic and already includes color logic and multiple choice.
 
-1.  Have [Anki](https://apps.ankiweb.net/) installed.
-2.  Download the **`.apkg`** file from the link above.
-3.  **Double-click** the downloaded file (or go to *File > Import*).
-4.  Done! The deck will appear with the name **ITIL 4 Foundation**.
+1.  Have [Anki](https://apps.ankiweb.net/) installed.
+2.  Download the **`.apkg`** file from the link above.
+3.  **Double-click** the downloaded file (or go to *File > Import*).
+4.  Done! The deck will appear with the name **ITIL 4 Foundation**.
 
 ---
 
 ## ⚖️ Legal Disclaimer
 This repository is a personal study project, provided **"as-is"**.
-1.  **Unofficial:** Not affiliated with AXELOS Limited or PeopleCert.
-2.  **No Guarantee:** The author does not guarantee passing the exam. The use
+1.  **Unofficial:** Not affiliated with AXELOS Limited or PeopleCert.
+2.  **No Guarantee:** The author does not guarantee passing the exam. The use
