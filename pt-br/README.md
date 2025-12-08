@@ -8,7 +8,7 @@ Este diretório contém o **material definitivo** de flashcards para a preparaç
 O material foi auditado, validado e formatado especificamente para uso no **Anki** (software de repetição espaçada), cobrindo desde conceitos básicos até cenários situacionais complexos.
 
 ## 📂 Acesso ao Arquivo
-➡️ **[Baixar Arquivo .apkg (Pacote Completo)](https://github.com/allanlopesprado/itil4-foundation/releases/download/v1.0.0/itil4-foundation-en.apkg)**
+➡️ **[Baixar Arquivo .apkg (Pacote Completo)](https://github.com/allanlopesprado/itil4-foundation/releases/download/v1.0.0/itil4-foundation-pt-br.apkg)**
 
 ## 🎯 Diferenciais do Material
 Diferente de "dumps" comuns, este material foi estruturado pedagogicamente:
