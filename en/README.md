@@ -8,7 +8,7 @@ This directory hosts the **definitive flashcard resource** for **ITIL 4 Foundati
 The material is being audited, validated, and formatted specifically for **Anki** (spaced repetition software), covering everything from basic concepts to complex situational scenarios.
 
 ## 📂 File Access
-👉 **[Download .txt File (180 Questions)](./itil4-foundation-en.txt)**
+➡️ **[Download .txt File (180 Questions)](./itil4-foundation-en.txt)**
 
 ## 🎯 Key Differentiators
 Unlike common "exam dumps," this material is structured pedagogically:
