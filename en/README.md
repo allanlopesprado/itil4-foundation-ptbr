@@ -8,7 +8,7 @@ This directory hosts the **definitive flashcard resource** for **ITIL 4 Foundati
 The material is being audited, validated, and formatted specifically for **Anki** (spaced repetition software), covering everything from basic concepts to complex situational scenarios.
 
 ## 📂 File Access
-➡️ **[Download .txt File (180 Questions)](./itil4-foundation-en.txt)**
+➡️ **[Download .apkg File (Full Package)](https://github.com/allanlopesprado/itil4-foundation/releases/download/v1.0.0/itil4-foundation-en.apkg)**
 
 ## 🎯 Key Differentiators
 Unlike common "exam dumps," this material is structured pedagogically:
@@ -17,7 +17,7 @@ Unlike common "exam dumps," this material is structured pedagogically:
 * 🎨 **Enhanced Readability:** Uses **bold text** on keywords in explanations to speed up review.
 * 🏷️ **Smart Taxonomy:** Uses hierarchical tags (`ITIL::01_Concepts`) for focused topic study.
 
-## 📊 Deck Content (Planned)
+## 📊 Deck Content
 | Topic | Qty. | Learning Focus |
 | :--- | :---: | :--- |
 | **Concepts & 4 Dimensions** | 60 | Core definitions, Value, Costs, Risks, PESTLE, and SVS. |
@@ -27,23 +27,16 @@ Unlike common "exam dumps," this material is structured pedagogically:
 
 ## 🚀 Installation (Step-by-Step)
 
-### 1️⃣ Prerequisite (Mandatory)
-Install the **Multiple Choice** Add-on in your Anki to enable multiple-choice cards.
-1.  In Anki, go to **Tools** > **Add-ons**.
-2.  Click **Get Add-ons**.
-3.  Paste the code: `1566095810` and restart Anki.
+As the file is now a complete package (`.apkg`), installation is automatic and already includes color logic and multiple choice.
 
-### 2️⃣ Import
-1.  Download the file (when available).
-2.  In Anki, click **File** > **Import...** and select the file.
-3.  **Critical Configuration:**
-    * **Note Type:** Anki should automatically select `AllInOne (kprim, mc, sc)+`.
-    * **Field Separator:** Ensure **TAB** is selected.
-    * **Allow HTML:** ✅ **Check this option** to render formatting correctly.
+1.  Have [Anki](https://apps.ankiweb.net/) installed.
+2.  Download the **`.apkg`** file from the link above.
+3.  **Double-click** the downloaded file (or go to *File > Import*).
+4.  Done! The deck will appear with the name **ITIL 4 Foundation**.
 
 ---
 
 ## ⚖️ Legal Disclaimer
-This repository is a personal study project provided **"as-is"**.
-1.  **Unofficial:** This material is not affiliated with AXELOS Limited or PeopleCert.
-2.  **No Guarantee:** The author accepts no liability for exam outcomes. User assumes all risks.
+This repository is a personal study project, provided **"as-is"**.
+1.  **Unofficial:** Not affiliated with AXELOS Limited or PeopleCert.
+2.  **No Guarantee:** The author does not guarantee passing the exam. The use
