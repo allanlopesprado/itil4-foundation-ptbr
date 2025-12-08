@@ -1,7 +1,7 @@
 # ITIL 4 Foundation - Flashcards (PT-BR)
 
 ![Status](https://img.shields.io/badge/Status-Validated%20v1.0-brightgreen)
-![Language](https://img.shields.io/badge/Language-Portuguese-green)
+![Language](https://img.shields.io/badge/Language-Portuguese-blue)
 
 Este diretório contém o **material definitivo** de flashcards para a preparação da certificação **ITIL 4 Foundation**.
 
