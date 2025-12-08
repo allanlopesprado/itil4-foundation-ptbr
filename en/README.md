@@ -8,8 +8,7 @@ This directory hosts the **definitive flashcard resource** for **ITIL 4 Foundati
 The material is being audited, validated, and formatted specifically for **Anki** (spaced repetition software), covering everything from basic concepts to complex situational scenarios.
 
 ## 📂 File Access
-🚧 **Status:** The English deck is currently being translated from the validated Portuguese version.
-* **Expected Release:** Coming soon.
+👉 **[Download .txt File (180 Questions)](./itil4-foundation-en.txt)**
 
 ## 🎯 Key Differentiators
 Unlike common "exam dumps," this material is structured pedagogically:
