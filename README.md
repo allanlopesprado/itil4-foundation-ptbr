@@ -17,10 +17,10 @@ Please choose your preferred language to access the files and instructions:
 <br>
 *Por favor, escolha seu idioma para acessar os arquivos e instruções:*
 
-### 👉 [🇧🇷 Português (PT-BR)](./pt-br/)
+### ➡️ [Português (PT-BR)](./pt-br/)
 > Acesso ao deck completo, instruções de instalação e detalhes do Syllabus em Português.
 
-### 👉 [🇺🇸 English (EN)](./en/)
+### ➡️ [English (EN)](./en/)
 > Access to the complete deck, installation instructions, and Syllabus details in English.
 
 ---
