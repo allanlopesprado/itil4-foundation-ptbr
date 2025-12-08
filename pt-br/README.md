@@ -29,7 +29,7 @@ Diferente de "dumps" comuns, este material foi estruturado pedagogicamente:
 ## 🚀 Instalação (Passo a Passo)
 
 ### 1️⃣ Pré-requisito (Obrigatório)
-Instale o Add-on **AllInOne** no seu Anki para habilitar os cartões de múltipla escolha.
+Instale o Add-on **Multiple Choice** no seu Anki para habilitar os cartões de múltipla escolha.
 1.  No Anki, vá em **Ferramentas** > **Complementos**.
 2.  Clique em **Obter Complementos**.
 3.  Cole o código: `1566095810` e reinicie o Anki.
