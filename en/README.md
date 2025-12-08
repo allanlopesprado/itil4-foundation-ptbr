@@ -1,6 +1,6 @@
 # 🇺🇸 ITIL 4 Foundation - Flashcards (EN)
 
-![Status](https://img.shields.io/badge/Status-Under%20Development-yellow)
+![Status](https://img.shields.io/badge/Status-Validated%20v1.0-brightgreen)
 ![Language](https://img.shields.io/badge/Language-English-blue)
 
 This directory hosts the **definitive flashcard resource** for **ITIL 4 Foundation** certification preparation.
