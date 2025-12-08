@@ -1,4 +1,4 @@
-# 🇧🇷 ITIL 4 Foundation - Flashcards (PT-BR)
+# ITIL 4 Foundation - Flashcards (PT-BR)
 
 ![Status](https://img.shields.io/badge/Status-Validated%20v1.0-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Portuguese-green)
