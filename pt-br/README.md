@@ -8,7 +8,7 @@ Este diretório contém o **material definitivo** de flashcards para a preparaç
 O material foi auditado, validado e formatado especificamente para uso no **Anki** (software de repetição espaçada), cobrindo desde conceitos básicos até cenários situacionais complexos.
 
 ## 📂 Acesso ao Arquivo
-👉 **[Baixar Arquivo .txt (180 Questões)](./itil4-foundation-ptbr.txt)**
+👉 **[Baixar Arquivo .txt (180 Questões)](./itil4-foundation-pt-br.txt)**
 
 ## 🎯 Diferenciais do Material
 Diferente de "dumps" comuns, este material foi estruturado pedagogicamente:
