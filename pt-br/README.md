@@ -8,7 +8,7 @@ Este diretório contém o **material definitivo** de flashcards para a preparaç
 O material foi auditado, validado e formatado especificamente para uso no **Anki** (software de repetição espaçada), cobrindo desde conceitos básicos até cenários situacionais complexos.
 
 ## 📂 Acesso ao Arquivo
-➡️ **[Baixar Arquivo .txt (180 Questões)](./itil4-foundation-pt-br.txt)**
+➡️ **[Baixar Arquivo .apkg (Pacote Completo)](https://github.com/allanlopesprado/itil4-foundation/releases/download/v1.0.0/itil4-foundation-en.apkg)**
 
 ## 🎯 Diferenciais do Material
 Diferente de "dumps" comuns, este material foi estruturado pedagogicamente:
@@ -28,19 +28,12 @@ Diferente de "dumps" comuns, este material foi estruturado pedagogicamente:
 
 ## 🚀 Instalação (Passo a Passo)
 
-### 1️⃣ Pré-requisito (Obrigatório)
-Instale o Add-on **Multiple Choice** no seu Anki para habilitar os cartões de múltipla escolha.
-1.  No Anki, vá em **Ferramentas** > **Complementos**.
-2.  Clique em **Obter Complementos**.
-3.  Cole o código: `1566095810` e reinicie o Anki.
+Como o arquivo agora é um pacote completo (`.apkg`), a instalação é automática e já inclui a lógica de cores e múltipla escolha.
 
-### 2️⃣ Importação
-1.  Baixe o arquivo `.txt` no link acima.
-2.  No Anki, clique em **Arquivo** > **Importar...** e selecione o arquivo.
-3.  **Configuração Crítica:**
-    * **Tipo de Nota:** O Anki deve selecionar automaticamente `AllInOne (kprim, mc, sc)+`.
-    * **Separador de Campos:** Certifique-se de que está selecionado **TAB**.
-    * **Permitir HTML:** ✅ **Marque esta opção** para ver a formatação correta.
+1.  Tenha o [Anki](https://apps.ankiweb.net/) instalado.
+2.  Baixe o arquivo **`.apkg`** no link acima.
+3.  Dê um **duplo clique** no arquivo baixado (ou vá em *Arquivo > Importar*).
+4.  Pronto! O baralho aparecerá com o nome **ITIL 4 Foundation**.
 
 ---
 
